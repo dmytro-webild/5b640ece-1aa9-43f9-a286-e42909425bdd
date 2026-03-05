@@ -68,13 +68,13 @@ const ContactPage = () => {
       headingFontWeight="normal"
     >
       <div id="nav" data-section="nav">
-        <NavbarStyleApple brandName="Aajel" navItems={navItems} />
+        <NavbarStyleApple brandName="" navItems={navItems} />
       </div>
 
       <div id="contact-form" data-section="contact-form">
         <ContactSplitForm
           title="Get in Touch Today"
-          description="Need professional typing, business support, or document assistance? Contact Aajel Business Services now via phone, WhatsApp, or the form below."
+          description="Need professional typing, business support, or document assistance? Contact  Business Services now via phone, WhatsApp, or the form below."
           inputs={[
             { name: "name", type: "text", placeholder: "Your Name", required: true },
             { name: "phone", type: "tel", placeholder: "Phone Number", required: true },
@@ -137,9 +137,9 @@ const ContactPage = () => {
 
       <div id="footer" data-section="footer">
         <FooterBaseCard
-          logoText="Aajel Business Services"
+          logoText=" Business Services"
           columns={footerColumns}
-          copyrightText="© 2025 Aajel Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
+          copyrightText="© 2025  Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
         />
       </div>
     </ThemeProvider>
