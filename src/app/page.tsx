@@ -69,7 +69,7 @@ const HomePage = () => {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleApple 
-          brandName="Aajel" 
+          brandName="" 
           navItems={navItems}
         />
       </div>
@@ -79,7 +79,7 @@ const HomePage = () => {
           tag="Trusted Local Service"
           tagIcon={Shield}
           title="Fast, Reliable Business Support for Dubai"
-          description="Aajel Business Services provides professional typing, visa assistance, legal documentation, and government form support. Call now or WhatsApp for immediate help with your UAE business and document needs."
+          description=" Business Services provides professional typing, visa assistance, legal documentation, and government form support. Call now or WhatsApp for immediate help with your UAE business and document needs."
           buttons={[
             { text: "Call Now: 04 234 4002", href: "tel:042344002" },
             { text: "WhatsApp Now", href: "https://wa.me/971" },
@@ -127,7 +127,7 @@ const HomePage = () => {
         <TextAbout
           tag="About Our Company"
           tagIcon={Building2}
-          title="Aajel Business Services: Your Trusted Partner for Professional Business Support in Dubai. Helping individuals, entrepreneurs, and businesses navigate typing, documentation, visa, and legal processes with expertise, professionalism, and reliable service since our establishment in Al Twar."
+          title=" Business Services: Your Trusted Partner for Professional Business Support in Dubai. Helping individuals, entrepreneurs, and businesses navigate typing, documentation, visa, and legal processes with expertise, professionalism, and reliable service since our establishment in Al Twar."
           useInvertedBackground={false}
           buttons={[
             { text: "Our Services", href: "/services" },
@@ -154,7 +154,7 @@ const HomePage = () => {
         <TestimonialCardSix
           tag="Customer Reviews"
           title="What Our Clients Say"
-          description="Real feedback from Dubai customers who trust Aajel Business Services for their business needs."
+          description="Real feedback from Dubai customers who trust  Business Services for their business needs."
           textboxLayout="default"
           useInvertedBackground={false}
           animationType="slide-up"
@@ -164,19 +164,19 @@ const HomePage = () => {
                 "Professional and experienced team. They handled my business registration paperwork flawlessly. Highly recommended for anyone starting a business in Dubai.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              imageAlt: "Ahmed Al Mansouri"},
             {
               id: "2",              name: "Fatima Hassan",              handle: "HR Manager",              testimonial:
-                "Aajel solved our complex visa documentation issues quickly. Their expertise with government processes saved us so much time and stress.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg",              imageAlt: "Fatima Hassan"},
+                " solved our complex visa documentation issues quickly. Their expertise with government processes saved us so much time and stress.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg",              imageAlt: "Fatima Hassan"},
             {
               id: "3",              name: "Mohammed Al Zahra",              handle: "Entrepreneur",              testimonial:
                 "Fast service, competitive prices, and helpful staff. They made the entire process simple and transparent. Best business service provider in Al Twar.",              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-man-working-laptop_23-2148479521.jpg",              imageAlt: "Mohammed Al Zahra"},
             {
               id: "4",              name: "Sarah Johnson",              handle: "Expatriate Professional",              testimonial:
-                "I was confused with all the paperwork, but Aajel guided me through everything. Professional, friendly, and they really care about solving your problems.",              imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg",              imageAlt: "Sarah Johnson"},
+                "I was confused with all the paperwork, but  guided me through everything. Professional, friendly, and they really care about solving your problems.",              imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg",              imageAlt: "Sarah Johnson"},
             {
               id: "5",              name: "Raj Patel",              handle: "Company Manager",              testimonial:
                 "Excellent service for document processing. Their team knows the UAE system inside out. Worth every dirham spent.",              imageSrc: "http://img.b2bpic.net/free-photo/blond-businessman-happy-expression_1194-3797.jpg",              imageAlt: "Raj Patel"},
             {
               id: "6",              name: "Layla Al Mansoori",              handle: "Business Consultant",              testimonial:
-                "Aajel demonstrates genuine hospitality alongside professional expertise. They handle difficult cases that others can't. Highly trusted partner.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg",              imageAlt: "Layla Al Mansoori"},
+                " demonstrates genuine hospitality alongside professional expertise. They handle difficult cases that others can't. Highly trusted partner.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg",              imageAlt: "Layla Al Mansoori"},
           ]}
         />
       </div>
@@ -184,7 +184,7 @@ const HomePage = () => {
       <div id="cta" data-section="cta">
         <FeatureCardMedia
           tag="Ready to Get Started"
-          title="Transform Your Business with Aajel Services"
+          title="Transform Your Business with  Services"
           description="Stop worrying about paperwork and documentation. Let our expert team handle your typing, visa, and business support needs while you focus on growing your business."
           animationType="slide-up"
           textboxLayout="default"
@@ -202,9 +202,9 @@ const HomePage = () => {
 
       <div id="footer" data-section="footer">
         <FooterBaseCard
-          logoText="Aajel Business Services"
+          logoText=" Business Services"
           columns={footerColumns}
-          copyrightText="© 2025 Aajel Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
+          copyrightText="© 2025  Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
         />
       </div>
     </ThemeProvider>
