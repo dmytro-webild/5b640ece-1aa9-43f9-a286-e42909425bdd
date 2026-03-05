@@ -1,74 +1,25 @@
 import type { Metadata } from "next";
-import { Halant } from "next/font/google";
 import { Inter } from "next/font/google";
-import { Montserrat } from "next/font/google";
+import "./styles/variables.css";
 import "./globals.css";
-import { ServiceWrapper } from "@/components/ServiceWrapper";
-import Tag from "@/tag/Tag";
-
-const halant = Halant({
-  variable: "--font-halant",
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
-});
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-});
-
-const montserrat = Montserrat({
-  variable: "--font-montserrat",
-  subsets: ["latin"],
+  variable: "--font-inter",  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Aajel Business Services - Typing & Business Support Dubai",
-  description: "Professional typing, visa, legal, and business documentation services in Dubai. Call 04 234 4002 or WhatsApp for fast, reliable assistance. Located in Al Twar.",
-  keywords: "typing service Dubai, business support Dubai, visa assistance UAE, document services Dubai, legal paperwork Dubai, PRO services, business registration Dubai, government forms Dubai",
-  metadataBase: new URL("https://aajelbusiness.com"),
-  alternates: {
-    canonical: "https://aajelbusiness.com",
-  },
-  openGraph: {
-    title: "Aajel Business Services - Trusted Typing & Business Support",
-    description: "Fast, professional business services in Dubai. Expert typing, visa, and legal documentation support. Call now!",
-    url: "https://aajelbusiness.com",
-    siteName: "Aajel Business Services",
-    images: [
-      {
-        url: "http://img.b2bpic.net/free-photo/multi-ethnic-business-team-sitting-table-office-center-speaking-about-project-meeting-broadroom_482257-5077.jpg",
-        alt: "Aajel Business Services Dashboard",
-      },
-    ],
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Aajel Business Services Dubai",
-    description: "Professional typing and business support in Dubai. WhatsApp or call 04 234 4002.",
-    images: ["http://img.b2bpic.net/free-photo/multi-ethnic-business-team-sitting-table-office-center-speaking-about-project-meeting-broadroom_482257-5077.jpg"],
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
-};
+  title: "Aajel Business Services - Professional Business Support in Dubai",  description: "Fast, reliable business support for Dubai. Professional typing, visa assistance, legal documentation, and government form support."};
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-    <html lang="en" suppressHydrationWarning>
-      <ServiceWrapper>
-        <body
-          className={`${halant.variable} ${inter.variable} ${montserrat.variable} antialiased`}
-        >
-          <Tag />
-          {children}
-        
+    <html lang="en">
+      <body className={inter.variable}>
+        {children}
+      
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -1436,7 +1387,6 @@ export default function RootLayout({
           }}
         />
       </body>
-      </ServiceWrapper>
     </html>
   );
 }
