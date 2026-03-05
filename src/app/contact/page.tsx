@@ -113,7 +113,7 @@ const ContactPage = () => {
               description:
                 "Phone: 04 234 4002. Our team is available during business hours for immediate assistance and consultations.",
               tag: "Phone",
-              imageSrc: "http://img.b2bpic.net/free-photo/customer-service-operator-talking-phone-office_1301-7543.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/customer-service-operator-talking-phone-office_1301-7543.jpg?_wi=2",
             },
             {
               id: "whatsapp",
@@ -121,7 +121,7 @@ const ContactPage = () => {
               description:
                 "Message us on WhatsApp for quick responses and convenient service requests. We reply promptly to all inquiries.",
               tag: "WhatsApp",
-              imageSrc: "http://img.b2bpic.net/free-photo/woman-standing-smartphone_1150-19377.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/woman-standing-smartphone_1150-19377.jpg?_wi=2",
             },
             {
               id: "office",
@@ -129,7 +129,7 @@ const ContactPage = () => {
               description:
                 "163 Al Nahda St, Al Twar 5, Dubai, UAE. Located in ZAHRAT AL MADAN. Visit us in person for detailed consultations.",
               tag: "Location",
-              imageSrc: "http://img.b2bpic.net/free-vector/flat-hotel-booking-concept_23-2148152374.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/flat-hotel-booking-concept_23-2148152374.jpg?_wi=2",
             },
           ]}
         />
