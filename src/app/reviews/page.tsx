@@ -86,7 +86,7 @@ const ReviewsPage = () => {
               handle: "Business Owner",
               testimonial:
                 "Professional and experienced team. They handled my business registration paperwork flawlessly. Highly recommended for anyone starting a business in Dubai.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2",
               imageAlt: "Ahmed Al Mansouri",
             },
             {
@@ -95,7 +95,7 @@ const ReviewsPage = () => {
               handle: "HR Manager",
               testimonial:
                 "Aajel solved our complex visa documentation issues quickly. Their expertise with government processes saved us so much time and stress.",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg?_wi=2",
               imageAlt: "Fatima Hassan",
             },
             {
@@ -104,7 +104,7 @@ const ReviewsPage = () => {
               handle: "Entrepreneur",
               testimonial:
                 "Fast service, competitive prices, and helpful staff. They made the entire process simple and transparent. Best business service provider in Al Twar.",
-              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-man-working-laptop_23-2148479521.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-man-working-laptop_23-2148479521.jpg?_wi=2",
               imageAlt: "Mohammed Al Zahra",
             },
             {
@@ -113,7 +113,7 @@ const ReviewsPage = () => {
               handle: "Expatriate Professional",
               testimonial:
                 "I was confused with all the paperwork, but Aajel guided me through everything. Professional, friendly, and they really care about solving your problems.",
-              imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg?_wi=2",
               imageAlt: "Sarah Johnson",
             },
             {
@@ -122,7 +122,7 @@ const ReviewsPage = () => {
               handle: "Company Manager",
               testimonial:
                 "Excellent service for document processing. Their team knows the UAE system inside out. Worth every dirham spent.",
-              imageSrc: "http://img.b2bpic.net/free-photo/blond-businessman-happy-expression_1194-3797.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/blond-businessman-happy-expression_1194-3797.jpg?_wi=2",
               imageAlt: "Raj Patel",
             },
             {
@@ -131,7 +131,7 @@ const ReviewsPage = () => {
               handle: "Business Consultant",
               testimonial:
                 "Aajel demonstrates genuine hospitality alongside professional expertise. They handle difficult cases that others can't. Highly trusted partner.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg?_wi=2",
               imageAlt: "Layla Al Mansoori",
             },
           ]}
@@ -153,7 +153,7 @@ const ReviewsPage = () => {
               description:
                 "Phone: 04 234 4002. Available during business hours for immediate assistance.",
               tag: "Phone",
-              imageSrc: "http://img.b2bpic.net/free-photo/customer-service-operator-talking-phone-office_1301-7543.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/customer-service-operator-talking-phone-office_1301-7543.jpg?_wi=1",
             },
             {
               id: "whatsapp",
@@ -161,7 +161,7 @@ const ReviewsPage = () => {
               description:
                 "Message us on WhatsApp for quick responses and convenient service requests.",
               tag: "WhatsApp",
-              imageSrc: "http://img.b2bpic.net/free-photo/woman-standing-smartphone_1150-19377.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/woman-standing-smartphone_1150-19377.jpg?_wi=1",
             },
             {
               id: "visit",
@@ -169,7 +169,7 @@ const ReviewsPage = () => {
               description:
                 "163 Al Nahda St, Al Twar 5, Dubai. Located in ZAHRAT AL MADAN.",
               tag: "Location",
-              imageSrc: "http://img.b2bpic.net/free-vector/flat-hotel-booking-concept_23-2148152374.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/flat-hotel-booking-concept_23-2148152374.jpg?_wi=1",
             },
           ]}
         />

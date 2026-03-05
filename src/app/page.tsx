@@ -187,7 +187,7 @@ const HomePage = () => {
               handle: "Business Owner",
               testimonial:
                 "Professional and experienced team. They handled my business registration paperwork flawlessly. Highly recommended for anyone starting a business in Dubai.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1",
               imageAlt: "Ahmed Al Mansouri",
             },
             {
@@ -196,7 +196,7 @@ const HomePage = () => {
               handle: "HR Manager",
               testimonial:
                 "Aajel solved our complex visa documentation issues quickly. Their expertise with government processes saved us so much time and stress.",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg?_wi=1",
               imageAlt: "Fatima Hassan",
             },
             {
@@ -205,7 +205,7 @@ const HomePage = () => {
               handle: "Entrepreneur",
               testimonial:
                 "Fast service, competitive prices, and helpful staff. They made the entire process simple and transparent. Best business service provider in Al Twar.",
-              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-man-working-laptop_23-2148479521.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-man-working-laptop_23-2148479521.jpg?_wi=1",
               imageAlt: "Mohammed Al Zahra",
             },
             {
@@ -214,7 +214,7 @@ const HomePage = () => {
               handle: "Expatriate Professional",
               testimonial:
                 "I was confused with all the paperwork, but Aajel guided me through everything. Professional, friendly, and they really care about solving your problems.",
-              imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg?_wi=1",
               imageAlt: "Sarah Johnson",
             },
             {
@@ -223,7 +223,7 @@ const HomePage = () => {
               handle: "Company Manager",
               testimonial:
                 "Excellent service for document processing. Their team knows the UAE system inside out. Worth every dirham spent.",
-              imageSrc: "http://img.b2bpic.net/free-photo/blond-businessman-happy-expression_1194-3797.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/blond-businessman-happy-expression_1194-3797.jpg?_wi=1",
               imageAlt: "Raj Patel",
             },
             {
@@ -232,7 +232,7 @@ const HomePage = () => {
               handle: "Business Consultant",
               testimonial:
                 "Aajel demonstrates genuine hospitality alongside professional expertise. They handle difficult cases that others can't. Highly trusted partner.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg?_wi=1",
               imageAlt: "Layla Al Mansoori",
             },
           ]}
@@ -253,7 +253,7 @@ const HomePage = () => {
               title: "Quick Start",
               description: "Get professional assistance within 24 hours of your request",
               tag: "Fast",
-              imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-mobile-phone_107420-84785.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-mobile-phone_107420-84785.jpg?_wi=1",
               buttons: [{ text: "Contact Us", href: "/contact" }],
             },
             {
@@ -261,7 +261,7 @@ const HomePage = () => {
               title: "Free Consultation",
               description: "Discuss your needs with our experts at no initial cost",
               tag: "Free",
-              imageSrc: "http://img.b2bpic.net/free-photo/business-meeting-cafe_53876-15162.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/business-meeting-cafe_53876-15162.jpg?_wi=1",
               buttons: [{ text: "Schedule Now", href: "/contact" }],
             },
           ]}
