@@ -71,7 +71,7 @@ const HomePage = () => {
         <NavbarStyleApple 
           brandName="Aajel" 
           navItems={navItems}
-          logoImageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AWxsIwZ7faFTOMvnFS8qknLwYR/uploaded-1772723192460-1v0n4pt8.png"
+          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AWxsIwZ7faFTOMvnFS8qknLwYR/uploaded-1772723192460-1v0n4pt8.png"
         />
       </div>
 
