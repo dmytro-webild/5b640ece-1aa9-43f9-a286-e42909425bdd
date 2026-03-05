@@ -68,14 +68,14 @@ const ReviewsPage = () => {
       headingFontWeight="normal"
     >
       <div id="nav" data-section="nav">
-        <NavbarStyleApple brandName="Aajel" navItems={navItems} />
+        <NavbarStyleApple brandName="" navItems={navItems} />
       </div>
 
       <div id="testimonials" data-section="testimonials">
         <TestimonialCardSix
           tag="Customer Reviews"
           title="What Our Clients Say"
-          description="Real feedback from Dubai customers who trust Aajel Business Services for their business needs."
+          description="Real feedback from Dubai customers who trust  Business Services for their business needs."
           textboxLayout="default"
           useInvertedBackground={false}
           animationType="slide-up"
@@ -94,7 +94,7 @@ const ReviewsPage = () => {
               name: "Fatima Hassan",
               handle: "HR Manager",
               testimonial:
-                "Aajel solved our complex visa documentation issues quickly. Their expertise with government processes saved us so much time and stress.",
+                " solved our complex visa documentation issues quickly. Their expertise with government processes saved us so much time and stress.",
               imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-woman-office_1398-6.jpg?_wi=2",
               imageAlt: "Fatima Hassan",
             },
@@ -112,7 +112,7 @@ const ReviewsPage = () => {
               name: "Sarah Johnson",
               handle: "Expatriate Professional",
               testimonial:
-                "I was confused with all the paperwork, but Aajel guided me through everything. Professional, friendly, and they really care about solving your problems.",
+                "I was confused with all the paperwork, but  guided me through everything. Professional, friendly, and they really care about solving your problems.",
               imageSrc: "http://img.b2bpic.net/free-photo/afro-american-woman-smiling-close-up_23-2148336947.jpg?_wi=2",
               imageAlt: "Sarah Johnson",
             },
@@ -130,7 +130,7 @@ const ReviewsPage = () => {
               name: "Layla Al Mansoori",
               handle: "Business Consultant",
               testimonial:
-                "Aajel demonstrates genuine hospitality alongside professional expertise. They handle difficult cases that others can't. Highly trusted partner.",
+                " demonstrates genuine hospitality alongside professional expertise. They handle difficult cases that others can't. Highly trusted partner.",
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-positive-businesswoman_1098-3531.jpg?_wi=2",
               imageAlt: "Layla Al Mansoori",
             },
@@ -142,7 +142,7 @@ const ReviewsPage = () => {
         <FeatureCardMedia
           tag="Contact Information"
           title="Let's Talk Business"
-          description="Multiple ways to reach Aajel Business Services. Choose what works best for you."
+          description="Multiple ways to reach  Business Services. Choose what works best for you."
           animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground={false}
@@ -177,9 +177,9 @@ const ReviewsPage = () => {
 
       <div id="footer" data-section="footer">
         <FooterBaseCard
-          logoText="Aajel Business Services"
+          logoText=" Business Services"
           columns={footerColumns}
-          copyrightText="© 2025 Aajel Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
+          copyrightText="© 2025  Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
         />
       </div>
     </ThemeProvider>
