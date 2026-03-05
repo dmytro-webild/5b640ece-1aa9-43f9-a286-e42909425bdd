@@ -146,7 +146,7 @@ const ServicesPage = () => {
               description:
                 "Reach out via phone (04 234 4002), WhatsApp, or submit a form with your service needs.",
               tag: "Contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-mobile-phone_107420-84785.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-mobile-phone_107420-84785.jpg?_wi=2",
             },
             {
               id: "step-2",
@@ -154,7 +154,7 @@ const ServicesPage = () => {
               description:
                 "Share details about your documentation or business requirement with our professional team.",
               tag: "Consultation",
-              imageSrc: "http://img.b2bpic.net/free-photo/business-meeting-cafe_53876-15162.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/business-meeting-cafe_53876-15162.jpg?_wi=2",
             },
             {
               id: "step-3",
