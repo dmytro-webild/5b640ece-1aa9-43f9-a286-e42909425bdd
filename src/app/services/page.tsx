@@ -67,7 +67,7 @@ const ServicesPage = () => {
       headingFontWeight="normal"
     >
       <div id="nav" data-section="nav">
-        <NavbarStyleApple brandName="Aajel" navItems={navItems} />
+        <NavbarStyleApple brandName="" navItems={navItems} />
       </div>
 
       <div id="services" data-section="services">
@@ -178,9 +178,9 @@ const ServicesPage = () => {
 
       <div id="footer" data-section="footer">
         <FooterBaseCard
-          logoText="Aajel Business Services"
+          logoText=" Business Services"
           columns={footerColumns}
-          copyrightText="© 2025 Aajel Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
+          copyrightText="© 2025  Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
         />
       </div>
     </ThemeProvider>
