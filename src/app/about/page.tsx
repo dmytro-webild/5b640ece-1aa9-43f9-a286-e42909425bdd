@@ -68,13 +68,13 @@ const AboutPage = () => {
       headingFontWeight="normal"
     >
       <div id="nav" data-section="nav">
-        <NavbarStyleApple brandName="Aajel" navItems={navItems} />
+        <NavbarStyleApple brandName="" navItems={navItems} />
       </div>
 
       <div id="why-choose-us" data-section="why-choose-us">
         <FeatureCardMedia
           tag="Why Choose Us"
-          title="Why Aajel Business Services Stands Out"
+          title="Why  Business Services Stands Out"
           description="Trusted by hundreds of Dubai clients for professional, fast, and reliable business support services."
           animationType="slide-up"
           textboxLayout="default"
@@ -135,7 +135,7 @@ const AboutPage = () => {
       <div id="faq" data-section="faq">
         <FaqSplitText
           sideTitle="Frequently Asked Questions"
-          sideDescription="Quick answers to common questions about Aajel Business Services."
+          sideDescription="Quick answers to common questions about  Business Services."
           textPosition="left"
           useInvertedBackground={false}
           faqsAnimation="slide-up"
@@ -182,9 +182,9 @@ const AboutPage = () => {
 
       <div id="footer" data-section="footer">
         <FooterBaseCard
-          logoText="Aajel Business Services"
+          logoText=" Business Services"
           columns={footerColumns}
-          copyrightText="© 2025 Aajel Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
+          copyrightText="© 2025  Business Services. All rights reserved. Professional Typing & Business Support in Dubai."
         />
       </div>
     </ThemeProvider>
